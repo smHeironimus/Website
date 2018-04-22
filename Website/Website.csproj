@@ -75,11 +75,93 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="About.aspx" />
+    <Content Include="Contact.aspx" />
     <Content Include="Main.aspx" />
     <Content Include="Pictures.aspx" />
+    <Content Include="res\IMG_20170626_210434-01.jpg" />
+    <Content Include="res\IMG_20170627_203945-01.jpg" />
+    <Content Include="res\IMG_20170627_203952.jpg" />
+    <Content Include="res\IMG_20170701_124720.jpg" />
+    <Content Include="res\IMG_20170701_124814.jpg" />
+    <Content Include="res\IMG_20170701_125208.jpg" />
+    <Content Include="res\IMG_20170701_125228.jpg" />
+    <Content Include="res\jellyfish.jpg" />
+    <Content Include="res\IMG_20170727_135520.jpg" />
+    <Content Include="res\IMG_20170727_141755.jpg" />
+    <Content Include="res\IMG_20170727_141845.jpg" />
+    <Content Include="res\IMG_20170729_202635.jpg" />
+    <Content Include="res\IMG_20170729_210157.jpg" />
+    <Content Include="res\IMG_20170729_210358.jpg" />
+    <Content Include="res\IMG_20170729_210440.jpg" />
+    <Content Include="res\IMG_20170729_210721.jpg" />
+    <Content Include="res\IMG_20170805_123419.jpg" />
+    <Content Include="res\IMG_20170805_133606.jpg" />
+    <Content Include="res\IMG_20170805_133610.jpg" />
+    <Content Include="res\IMG_20170805_133654.jpg" />
+    <Content Include="res\IMG_20170805_141601.jpg" />
+    <Content Include="res\IMG_20170805_142544.jpg" />
+    <Content Include="res\IMG_20170805_142826.jpg" />
+    <Content Include="res\IMG_20170805_143500.jpg" />
+    <Content Include="res\IMG_20170805_144802.jpg" />
+    <Content Include="res\IMG_20170805_144946.jpg" />
+    <Content Include="res\IMG_20170805_145447.jpg" />
+    <Content Include="res\IMG_20170805_151326.jpg" />
+    <Content Include="res\IMG_20170805_151512.jpg" />
+    <Content Include="res\IMG_20170805_151518.jpg" />
+    <Content Include="res\IMG_20170805_151746.jpg" />
+    <Content Include="res\IMG_20170805_151828.jpg" />
+    <Content Include="res\IMG_20170805_152728.jpg" />
+    <Content Include="res\IMG_20170805_152737.jpg" />
+    <Content Include="res\IMG_20170805_152905.jpg" />
+    <Content Include="res\IMG_20170805_153013.jpg" />
+    <Content Include="res\IMG_20170805_153031.jpg" />
+    <Content Include="res\IMG_20170805_153141.jpg" />
+    <Content Include="res\IMG_20170805_153231.jpg" />
+    <Content Include="res\IMG_20170805_153245.jpg" />
+    <Content Include="res\IMG_20170805_153253.jpg" />
+    <Content Include="res\IMG_20170805_154004.jpg" />
+    <Content Include="res\IMG_20170805_154647.jpg" />
+    <Content Include="res\IMG_20170805_154844.jpg" />
+    <Content Include="res\IMG_20170805_154901.jpg" />
+    <Content Include="res\IMG_20170805_154907.jpg" />
+    <Content Include="res\IMG_20170805_154917.jpg" />
+    <Content Include="res\IMG_20170805_154955.jpg" />
+    <Content Include="res\IMG_20170805_155014.jpg" />
+    <Content Include="res\IMG_20170805_155050.jpg" />
+    <Content Include="res\IMG_20170805_155109.jpg" />
+    <Content Include="res\IMG_20170805_155251.jpg" />
+    <Content Include="res\IMG_20170805_155339.jpg" />
+    <Content Include="res\IMG_20170805_155402.jpg" />
+    <Content Include="res\IMG_20170805_155902.jpg" />
+    <Content Include="res\IMG_20171223_125310.jpg" />
+    <Content Include="res\IMG_20171223_125546.jpg" />
+    <Content Include="res\IMG_20171223_125811.jpg" />
+    <Content Include="res\IMG_20171223_130420.jpg" />
+    <Content Include="res\IMG_20171223_130512.jpg" />
+    <Content Include="res\IMG_20171223_130645.jpg" />
+    <Content Include="res\IMG_20171223_130725.jpg" />
+    <Content Include="res\IMG_20171223_130828.jpg" />
+    <Content Include="res\IMG_20171223_130914.jpg" />
+    <Content Include="res\IMG_20171223_130922.jpg" />
+    <Content Include="StyleSheet1.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="About.aspx.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="About.aspx.designer.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contact.aspx.cs">
+      <DependentUpon>Contact.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contact.aspx.designer.cs">
+      <DependentUpon>Contact.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Main.aspx.cs">
       <DependentUpon>Main.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

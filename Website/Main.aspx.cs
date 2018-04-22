@@ -13,5 +13,20 @@ namespace Website
         {
 
         }
+
+        protected void Pictures_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("Pictures.aspx");
+        }
+
+        protected void About_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("About.aspx");
+        }
+
+        protected void Contact_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("Contact.aspx");
+        }
     }
 }
