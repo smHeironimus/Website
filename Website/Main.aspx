@@ -9,10 +9,9 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <div>
 
-            <asp:Label ID="Blank" runat="server" Text=""></asp:Label>
-
+        <div id="me" align="center">
+            <!-- <img src="res/me.png" height="260" width="200"/>-->
         </div>
 
         <div align="center">

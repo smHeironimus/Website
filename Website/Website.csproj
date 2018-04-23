@@ -79,6 +79,7 @@
     <Content Include="Contact.aspx" />
     <Content Include="Main.aspx" />
     <Content Include="Pictures.aspx" />
+    <Content Include="res\GitHub-Logo.png" />
     <Content Include="res\IMG_20170626_210434-01.jpg" />
     <Content Include="res\IMG_20170627_203945-01.jpg" />
     <Content Include="res\IMG_20170627_203952.jpg" />
@@ -144,6 +145,8 @@
     <Content Include="res\IMG_20171223_130828.jpg" />
     <Content Include="res\IMG_20171223_130914.jpg" />
     <Content Include="res\IMG_20171223_130922.jpg" />
+    <Content Include="res\me.png" />
+    <Content Include="res\twitter.png" />
     <Content Include="StyleSheet1.css" />
     <Content Include="Web.config" />
   </ItemGroup>

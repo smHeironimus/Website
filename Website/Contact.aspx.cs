@@ -13,5 +13,10 @@ namespace Website
         {
 
         }
+
+        protected void Back_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("Main.aspx");
+        }
     }
 }
