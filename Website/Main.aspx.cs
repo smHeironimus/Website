@@ -28,5 +28,10 @@ namespace Website
         {
             Response.Redirect("Contact.aspx");
         }
+
+        protected void PhotoshopEdits_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("PhotoshopEdits.aspx");
+        }
     }
 }

@@ -15,7 +15,8 @@
         </div>
 
         <div align="center">
-            <asp:Button cssClass="banner" ID="Pictures" runat="server" Text="Pictures" Font-Size="35px" Width="200" Height="80"  OnClick="Pictures_Click" /> 
+            <asp:Button cssClass="banner" ID="Pictures" runat="server" Text="Pictures" Font-Size="35px" Width="200" Height="80"  OnClick="Pictures_Click" />
+            <asp:Button cssClass="banner" ID="Photoshop" runat="server" Text="Photoshop Edits" Font-Size="35px" Width="275" Height="80"  OnClick="PhotoshopEdits_Click" />
             <asp:Button CssClass="banner" ID="About" runat="server" Text="About Me" Font-Size="35px" Width="200" Height="80" OnClick="About_Click"/> 
             <asp:Button CssClass="banner" ID="Contact" runat="server" Text="Contact Me" Font-Size="35px" Width="200" Height="80" OnClick="Contact_Click"/>
         </div>

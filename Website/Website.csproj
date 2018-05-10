@@ -78,75 +78,73 @@
     <Content Include="About.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="Main.aspx" />
+    <Content Include="PhotoshopEdits.aspx" />
     <Content Include="Pictures.aspx" />
-    <Content Include="res\GitHub-Logo.png" />
-    <Content Include="res\IMG_20170626_210434-01.jpg" />
-    <Content Include="res\IMG_20170627_203945-01.jpg" />
-    <Content Include="res\IMG_20170627_203952.jpg" />
-    <Content Include="res\IMG_20170701_124720.jpg" />
-    <Content Include="res\IMG_20170701_124814.jpg" />
-    <Content Include="res\IMG_20170701_125208.jpg" />
-    <Content Include="res\IMG_20170701_125228.jpg" />
-    <Content Include="res\jellyfish.jpg" />
-    <Content Include="res\IMG_20170727_135520.jpg" />
-    <Content Include="res\IMG_20170727_141755.jpg" />
-    <Content Include="res\IMG_20170727_141845.jpg" />
-    <Content Include="res\IMG_20170729_202635.jpg" />
-    <Content Include="res\IMG_20170729_210157.jpg" />
-    <Content Include="res\IMG_20170729_210358.jpg" />
-    <Content Include="res\IMG_20170729_210440.jpg" />
-    <Content Include="res\IMG_20170729_210721.jpg" />
-    <Content Include="res\IMG_20170805_123419.jpg" />
-    <Content Include="res\IMG_20170805_133606.jpg" />
-    <Content Include="res\IMG_20170805_133610.jpg" />
-    <Content Include="res\IMG_20170805_133654.jpg" />
-    <Content Include="res\IMG_20170805_141601.jpg" />
-    <Content Include="res\IMG_20170805_142544.jpg" />
-    <Content Include="res\IMG_20170805_142826.jpg" />
-    <Content Include="res\IMG_20170805_143500.jpg" />
-    <Content Include="res\IMG_20170805_144802.jpg" />
-    <Content Include="res\IMG_20170805_144946.jpg" />
-    <Content Include="res\IMG_20170805_145447.jpg" />
-    <Content Include="res\IMG_20170805_151326.jpg" />
-    <Content Include="res\IMG_20170805_151512.jpg" />
-    <Content Include="res\IMG_20170805_151518.jpg" />
-    <Content Include="res\IMG_20170805_151746.jpg" />
-    <Content Include="res\IMG_20170805_151828.jpg" />
-    <Content Include="res\IMG_20170805_152728.jpg" />
-    <Content Include="res\IMG_20170805_152737.jpg" />
-    <Content Include="res\IMG_20170805_152905.jpg" />
-    <Content Include="res\IMG_20170805_153013.jpg" />
-    <Content Include="res\IMG_20170805_153031.jpg" />
-    <Content Include="res\IMG_20170805_153141.jpg" />
-    <Content Include="res\IMG_20170805_153231.jpg" />
-    <Content Include="res\IMG_20170805_153245.jpg" />
-    <Content Include="res\IMG_20170805_153253.jpg" />
-    <Content Include="res\IMG_20170805_154004.jpg" />
-    <Content Include="res\IMG_20170805_154647.jpg" />
-    <Content Include="res\IMG_20170805_154844.jpg" />
-    <Content Include="res\IMG_20170805_154901.jpg" />
-    <Content Include="res\IMG_20170805_154907.jpg" />
-    <Content Include="res\IMG_20170805_154917.jpg" />
-    <Content Include="res\IMG_20170805_154955.jpg" />
-    <Content Include="res\IMG_20170805_155014.jpg" />
-    <Content Include="res\IMG_20170805_155050.jpg" />
-    <Content Include="res\IMG_20170805_155109.jpg" />
-    <Content Include="res\IMG_20170805_155251.jpg" />
-    <Content Include="res\IMG_20170805_155339.jpg" />
-    <Content Include="res\IMG_20170805_155402.jpg" />
-    <Content Include="res\IMG_20170805_155902.jpg" />
-    <Content Include="res\IMG_20171223_125310.jpg" />
-    <Content Include="res\IMG_20171223_125546.jpg" />
-    <Content Include="res\IMG_20171223_125811.jpg" />
-    <Content Include="res\IMG_20171223_130420.jpg" />
-    <Content Include="res\IMG_20171223_130512.jpg" />
-    <Content Include="res\IMG_20171223_130645.jpg" />
-    <Content Include="res\IMG_20171223_130725.jpg" />
-    <Content Include="res\IMG_20171223_130828.jpg" />
-    <Content Include="res\IMG_20171223_130914.jpg" />
-    <Content Include="res\IMG_20171223_130922.jpg" />
-    <Content Include="res\me.png" />
-    <Content Include="res\twitter.png" />
+    <Content Include="res\Arch.png" />
+    <Content Include="res\BirdOfParadise.png" />
+    <Content Include="res\Bridge1.png" />
+    <Content Include="res\Bridge2.png" />
+    <Content Include="res\Butterfly1.png" />
+    <Content Include="res\Cats.png" />
+    <Content Include="res\courtyard.png" />
+    <Content Include="res\Crest.png" />
+    <Content Include="res\DesertPlant1.png" />
+    <Content Include="res\DesertPlant2.png" />
+    <Content Include="res\EiffelTower.png" />
+    <Content Include="res\FestiveCats.png" />
+    <Content Include="res\Fountain1.png" />
+    <Content Include="res\Fountain2.png" />
+    <Content Include="res\fountain3.png" />
+    <Content Include="res\Fountain4.png" />
+    <Content Include="res\Hibiscus1.png" />
+    <Content Include="res\Hydrangea1.png" />
+    <Content Include="res\Hydrangea2.png" />
+    <Content Include="res\Jellyfish.png" />
+    <Content Include="res\LilyAndFrog.png" />
+    <Content Include="res\Lion.png" />
+    <Content Include="res\Museum.png" />
+    <Content Include="res\Palazzo.png" />
+    <Content Include="res\ParisBalloon.png" />
+    <Content Include="res\Pathway.png" />
+    <Content Include="res\PinkFlowers1.png" />
+    <Content Include="res\PinkFlowers2.png" />
+    <Content Include="res\PinkHibiscus.png" />
+    <Content Include="res\PinkHibiscus2.png" />
+    <Content Include="res\PinkLily.png" />
+    <Content Include="res\PinkLily2.png" />
+    <Content Include="res\PinkOrchids1.png" />
+    <Content Include="res\PinkOrchids2.png" />
+    <Content Include="res\PitcherPlant.png" />
+    <Content Include="res\PoinsettaTree.png" />
+    <Content Include="res\Pond.png" />
+    <Content Include="res\Pond2.png" />
+    <Content Include="res\Pond3.png" />
+    <Content Include="res\PurpleFlower1.png" />
+    <Content Include="res\PurpleFlowers1.png" />
+    <Content Include="res\PurpleOrchid1.png" />
+    <Content Include="res\PurpleOrchid2.png" />
+    <Content Include="res\RedFlowers.png" />
+    <Content Include="res\RedFlowers2.png" />
+    <Content Include="res\RedOrangeFlowers.png" />
+    <Content Include="res\SpottedPoinsetta.png" />
+    <Content Include="res\SpottedPoinsetta2.png" />
+    <Content Include="res\Statue1.png" />
+    <Content Include="res\Statue2.png" />
+    <Content Include="res\Statue3.png" />
+    <Content Include="res\Structure.png" />
+    <Content Include="res\TreeCoveredPath.png" />
+    <Content Include="res\Waterfall.png" />
+    <Content Include="res\WhiteFlower1.png" />
+    <Content Include="res\WhiteHibiscus.png" />
+    <Content Include="res\WhiteHibiscus2.png" />
+    <Content Include="res\WhiteLily.png" />
+    <Content Include="res\WhiteOrchid1.png" />
+    <Content Include="res\WhiteOrchids.png" />
+    <Content Include="res\WhiteOrchids2.png" />
+    <Content Include="res\YellowFlower.png" />
+    <Content Include="res\YellowFlower2.png" />
+    <Content Include="res\YellowFlower3.png" />
+    <Content Include="res\YellowOrchid.png" />
     <Content Include="StyleSheet1.css" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -172,6 +170,10 @@
     <Compile Include="Main.aspx.designer.cs">
       <DependentUpon>Main.aspx</DependentUpon>
     </Compile>
+    <Compile Include="PhotoshopEdits.aspx.cs">
+      <DependentUpon>PhotoshopEdits.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
     <Compile Include="Pictures.aspx.cs">
       <DependentUpon>Pictures.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -181,6 +183,7 @@
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

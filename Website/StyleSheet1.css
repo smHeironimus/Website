@@ -2,7 +2,7 @@
     background-color:slategray;
 }
 .banner {
-    text-align: center;
+    text-align: left;
     padding:10px;
     margin:20px;
     background-color: Transparent;
@@ -13,10 +13,3 @@
     outline: none;
 }
 
-#Table1{
-    align-items:center;
-}
-
-#me{
-    
-}
